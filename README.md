@@ -4,6 +4,10 @@
 
 https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/data
 
+- 2023 Optiver - Trading at the close
+
+https://www.kaggle.com/code/chiangken/introduction-and-explore-data-analysis
+
 # Will Upload 4 Jupyter Notebook and 1 Python File
 
 - Note Book 1: Familiar with Competition Data Set
